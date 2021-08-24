@@ -545,13 +545,13 @@ footer{
     content: "Registration for the event Analyst starts at 1 pm.";
 }
 .t1:hover::before{
-    content: "Click on Register.";
+    content: "Registration for the event Analyst starts at 1 pm.";
 }
 .t7::before{
     content: "Registration for the event closes at 9 pm.";
 }
 .t7:hover::before{
-    content: "Click on Resister.";
+    content: "Registration for the event closes at 9 pm.";
 }
 .t2::before{
     content: "Round 1 (15 questions on logo+connect in section A and further 2 DI and 1 logical reasoning question in section B) from 6 pm to 6.30 pm .";
